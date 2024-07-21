@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm abbas payandeh, In my current role as a front-end developer intern</h1>
+<h1 align="center">Hello! I'm abbas payandeh, In my current role as a front-end developer </h1>
 <h3 align="center">I'm passionate about exploring the field of web design and development in my career, and I have a strong interest in front-end evelopment. I have experience with a variety of languages and technologies, including HTML, CSS, Javascript, React.js, Next.js, tailwind css, Git, and hosting platforms like Vercel, and Github pages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apyn&label=Profile%20views&color=0e75b6&style=flat" alt="apyn" /> </p>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apyn&label=Profile%20views&color=0e75b6&style=flat" alt="apyn" /> </p>
 
-- 🌱 I’m currently learning **Freameworks Next.JS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
